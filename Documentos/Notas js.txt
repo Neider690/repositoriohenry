@@ -1,0 +1,81 @@
+*/*/*/funcion MATH */*/*/*/
+
+	Para elevar un número a un exponente usamos la opcion Math.pow 
+	
+	Para redondear un numero al entero mas cercano se usa Math.round
+
+	Para redondear un numero al entero mas cercano hacia arriba se usa 	Math.celi
+
+	Math.floor redondeará el número decimal al entero de menor valor. Por 	ejemplo,
+	si tenemos el número 5.93, el resultado será 5.
+	
+	Math.max funciona para mostrar el numero maximo en una lista
+
+	Math.min funciona para mostrar el numero minimo en una lista. 
+
+********************************************+
+
+
+Para devolver un numero que sea positivo se hace poniendolo mayor a 0
+
+
+
+switch se usa para programar varias cadenas de datos en un mismo codigo 
+
+
+los array se empiezan a contar desde el 0 
+
+
+-------------------------------------------------
+
+para definir el arreglo literal se hace de la ss maneda
+
+var [] = primer elemento 
+
+----------------------------------------------
+
+.push, es la funcion que sirve para agregar en la ultima posicion de un array
+
+
+.pop se utiliza para sacar el ultimo elemento de un array y devuelve el valor  
+-----------------------------------------------------
+
+objetos 
+
+los objetos nos dal la posivilidad de hacer una estrutura de datos donde hayan propiedades que 
+esten asociadas a un valor 
+
+
+
+para declarar una funcion o metodo comstructor se hace con la primera letra 
+en mayuscula, así se sabe que es la principal para el codigo  
+ 
+
+
+
+en la tabla de la verdad, siempre cuando a sea positivo. es true, 
+
+todas las string menos la vacia son true 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

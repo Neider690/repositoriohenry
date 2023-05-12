@@ -1,0 +1,9 @@
+.cotenedor {
+
+    display: flexbox;
+    position:relative;
+    background-color: rgb(7, 7, 7);
+    padding: 200px;
+    align-items: flex-end;
+    justify-content: flex-end;
+}

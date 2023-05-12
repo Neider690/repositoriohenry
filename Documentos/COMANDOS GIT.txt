@@ -1,0 +1,19 @@
+git init  : se utiliza para iniciar repositorio 
+
+git add ArchivoEjemplo.js : crea archivo de forma definitiva lo almacena en (staging area)
+ 
+git commit -m "version 1" :  se generan cambios de staging area y con ( -m "") se deja un mensaje que nos sea util
+
+git add : agregar archivos en la carpeta actual unicamente 
+
+git commit -m "Cambios v1" : genera cambios en la version antigua ç
+
+git status : sirve para revisar guardado y modificacion de un archivo 
+
+git log "archivo.txt" : sirve para ver el historial del archivo 
+
+git push : sirve para enviar cambios al repositorio remoto  
+
+git pull : sirve para recibir cambios de repositorio remoto a local 
+
+cd ~

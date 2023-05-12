@@ -1,0 +1,10 @@
+.nav {
+
+    background-color: rgb(18, 228, 18);
+    width: 100%;
+    border-end-start-radius:initial;
+    top: auto;
+    align-items: flex-end;
+    color: aqua;
+
+}

@@ -1,0 +1,12 @@
+.container {
+
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center  ;
+    text-decoration: rgb(43, 215, 5);
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: auto;
+    padding: 200px;
+} 
